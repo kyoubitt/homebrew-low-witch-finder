@@ -1,8 +1,8 @@
 class LowWitchFinder < Formula
   desc "Terminal map and finder for low-Y witch huts in Minecraft"
   homepage "https://github.com/kyoubitt/Low-Witch-Finder"
-  url "https://github.com/kyoubitt/Low-Witch-Finder/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "46f0c548cfd858ca6f28ba792525298287c5abe48d24ccf310a79452db73887d"
+  url "https://github.com/kyoubitt/Low-Witch-Finder/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "a658766f4ab52cbbb6f5c9f966580712e57ac97cec91c7de49e1e2ab95beb871"
   head "https://github.com/kyoubitt/Low-Witch-Finder.git", branch: "master"
 
   depends_on "python@3.13"
